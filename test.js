@@ -1,3 +1,3 @@
 test('sum adds numbers', () => {
-    expect(1 + 2).toBe(4);
+    expect(1 + 2).toBe(3);
   });
